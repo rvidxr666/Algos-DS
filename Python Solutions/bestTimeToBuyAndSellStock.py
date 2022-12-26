@@ -18,3 +18,4 @@ if __name__ == "__main__":
     arr2 = [7, 6, 4, 3, 1]
 
     print(maxProfit(arr2))
+    hashMap = {3:0, 1:0}
